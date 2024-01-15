@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
      <a href="https://www.linkedin.com/in/thiago-mota-4b5929257/"
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://camo.githubusercontent.com/7a00e706de7f1b543f05d6a4f7d2ecd1b32a23605d2d0910b95c1e028b3d21c1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32312f31312f36312f32313131363135386461616562313435396234656330373538353035653161642e676966" height="35" alt="linkedin logo"  />
      </a>
 </div>
 
@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://camo.githubusercontent.com/7a00e706de7f1b543f05d6a4f7d2ecd1b32a23605d2d0910b95c1e028b3d21c1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32312f31312f36312f32313131363135386461616562313435396234656330373538353035653161642e676966" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
