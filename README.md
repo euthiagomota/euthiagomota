@@ -3,6 +3,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@euthiagomota)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagomota.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-dev-mota)
+<br>
 ###
 
 |GITHUB STATS|MOST USED LANGUAGES|
@@ -19,4 +20,3 @@
 <a href=""><img src="https://www.siteimprove.com/globalassets/media/shared/page-specific/integrations/connectors/connector-logos/azure-devops-logo.png" alt="Azure DevOps" width="150" height="50"/></a>
 <a href=""><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="70" height="70"/></a>
 <br>
-
