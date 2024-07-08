@@ -17,7 +17,7 @@
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/></a>
 <a href="https://nestjs.com/"><img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="NestJs" width="60" height="60"/></a>
 <a href=""><img src="https://www.theprovatogroup.com/wp-content/uploads/2020/01/devops.png" alt="Azure DevOps" width="60" height="60"/></a>
-<a href=""><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="60" height="60"/></a>
+<a href=""><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="50" height="50"/></a>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/></a>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/></a>
 
