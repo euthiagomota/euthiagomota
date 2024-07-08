@@ -9,7 +9,6 @@
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
 |[![euthiagomota github stats](https://github-readme-stats.vercel.app/api?username=euthiagomota&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euthiagomota&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=keaz)||
 
 ### Tech Stack
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="60" height="60"/></a>
