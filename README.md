@@ -30,6 +30,8 @@
 <p align="left">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="PostgreSQL" width="70" height="70"/>
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="70" height="70"/>
+ 
+   <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="Dbaver" width="70" height="70"/>
 </p>
 
 #### 🛠️ DevOps & Tools:
