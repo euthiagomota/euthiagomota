@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="70" height="70"/>
   <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="NodeJS" width="70" height="70"/>
   <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="NestJs" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="60" height="60"/>
 </p>
 
 #### 🛢️ Databases:
