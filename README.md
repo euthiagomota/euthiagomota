@@ -12,7 +12,7 @@
 ---
 ### Tech Stack
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="45" height="45"/></a>
-<a href=""><img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="NodeJS" width="50" height="50"/></a>
+<a href=""><img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="NodeJS" width="55" height="55"/></a>
 <a href=""><img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="NestJs" alt="NodeJS" width="50" height="50"/></a>
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="65" height="65"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="65" height="65"/></a>
