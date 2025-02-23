@@ -20,7 +20,7 @@
 <a href=""><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="50" height="50"/></a>
 <a href=""><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="50" height="50"/></a>
 <a href=""><img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="DBaver" width="50" height="50"/></a>
- <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="55" height="55"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="50" height="50"/>
 
 ---
