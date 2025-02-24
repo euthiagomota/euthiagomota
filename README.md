@@ -1,6 +1,14 @@
-## Hello! I'm Thiago Mota! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006EFF&height=120&section=header"/>
 
-### Information System Student
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006CCD&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euthiagomota&bg_color=0C0A0A&color=006eff&line=00ff6e&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+### I'm a Information System Student
 ### 📫Find me:
 [![Gmail Badge](https://img.shields.io/badge/-thiago.jp.mota@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:thiago.jp.mota@gmail.com)
 ### Languages: :us: | 🇧🇷
@@ -11,21 +19,15 @@
 
 ---
 ### Tech Stack
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="45" height="45"/></a>
-<a href=""><img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="NodeJS" width="55" height="55"/></a>
-<a href=""><img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="NestJs" alt="NodeJS" width="50" height="50"/></a>
-<a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="65" height="65"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="65" height="65"/></a>
-<a href="#"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="PostgreSQL" width="50" height="50"/></a>
-<a href=""><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="50" height="50"/></a>
-<a href=""><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="50" height="50"/></a>
-<a href=""><img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="DBaver" width="50" height="50"/></a>
- <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="55" height="55"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="50" height="50"/>
 
+![Minhas Stacks](https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,java,spring,postgres,mongodb,docker,git,github,azure&theme=dark&perline=12)
 ---
 
+
+
+
 ### 🚀 GitHub Stats:
-| 📊 Stats | 🏆 Most Used Languages |
-|:---:|:---:|
-|[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=euthiagomota&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euthiagomota&layout=compact&theme=tokyonight&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)|
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=euthiagomota&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euthiagomota&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
