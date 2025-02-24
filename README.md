@@ -1,12 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006EFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006CCD&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006CCD&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Mota;Information+System+Student;A+Backend+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euthiagomota&bg_color=0C0A0A&color=006eff&line=00ff6e&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
+---
 
 ### I'm a Information System Student
 ### 📫Find me:
