@@ -6,7 +6,7 @@
 ### 📫Find me:
 [![Gmail Badge](https://img.shields.io/badge/-thiago.jp.mota@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:thiago.jp.mota@gmail.com)
 
-### 📌 Connect with me:
+### 📌 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-dev-mota)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@euthiagomota)
 
