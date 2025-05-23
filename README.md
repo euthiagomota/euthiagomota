@@ -11,9 +11,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@euthiagomota)
 
 ---
-### Tech Stacks:
+### 🛠️ Tech I Already Used:
 
-![Minhas Stacks](https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,java,spring,postgres,mongodb,docker,git,github,azure&theme=dark&perline=12)
+![Minhas Stacks](https://skillicons.dev/icons?i=vscode,idea,javascript,typescript,nodejs,nestjs,java,maven,spring,postgres,mongodb,docker,git,github,azure,postman,npm,linux&theme=dark&perline=12)
 
 ---
 
