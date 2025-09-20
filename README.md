@@ -13,7 +13,7 @@
 ---
 ### 🛠️ Tech I Already Used:
 
-![Minhas Stacks](https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,java,maven,spring,postgres,mongodb,docker,git,github,azure,postman,npm,linux,vscode,idea&theme=dark&perline=12)
+![Minhas Stacks](https://skillicons.dev/icons?i=javascript,typescript,java,angular,sass,nodejs,nestjs,spring,maven,postgres,mysql,mongodb,docker,git,github,azure,npm,postman,vscode,idea&theme=dark&perline=12)
 
 ---
 
